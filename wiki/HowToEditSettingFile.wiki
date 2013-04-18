@@ -20,13 +20,13 @@ There is 2 ways to edit the settings file.
 
 === 2nd way, assuming you have made a connection with MySQL database: ===
 
- 1. Go to the index page
+1. Go to the index page
 
- 2. Login as admin
+2. Login as admin
 
- 3. click on "edit website setting"
+3. click on "edit website setting"
 
- 4. You have now enter the editor
+4. You have now enter the editor
 
 This [https://code.google.com/p/pokemon-online-project/wiki/DatabaseSetup article] will help you setup the database.
 
