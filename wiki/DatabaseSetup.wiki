@@ -17,8 +17,8 @@ First things first download apache and MySQL server:
 Now what:
   * Open the MySQL service
   * Make a new table and name it what ever you want
-  * Click import _POKEMON_ONLINE_PROJECT_DATABASE_.sql
-  * You can now delete the _POKEMON_ONLINE_PROJECT_DATABASE_.sql
+  * Click import {{{_POKEMON_ONLINE_PROJECT_DATABASE_.sql}}}
+  * You can now delete the {{{_POKEMON_ONLINE_PROJECT_DATABASE_.sql}}}
   * Make a new folder inside the htdocs and copy the other files and folder inside the zip file to the folder you just made
   * in your browser, open: {{{localhost/[folder you just made]/index.php}}}
   * You can now login as amin
