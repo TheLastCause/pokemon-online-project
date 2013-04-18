@@ -46,6 +46,8 @@ This [https://code.google.com/p/pokemon-online-project/wiki/DatabaseSetup articl
 || $AdsenseCode || {{{<img src="image/AddTopDummy.png" width="100%" height="100%">}}} ||
 || $Currency || Coin ||
 
+Too lazy to reset the settings manually? Get them from this [https://code.google.com/p/pokemon-online-project/source/browse/include/settings.php page].
+
 
 ==  Variable Description  ==
 
