@@ -1,4 +1,4 @@
-#summary One-How to edit the settings file.
+#summary How to edit the settings file.
 #labels Phase-Implementation,Phase-Deploy,Featured
 = How to edit the settings file =
 
