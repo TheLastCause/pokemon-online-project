@@ -21,4 +21,6 @@ Now what:
   * You can now delete the {{{_POKEMON_ONLINE_PROJECT_DATABASE_.sql}}}
   * Make a new folder inside the htdocs and copy the other files and folder inside the zip file to the folder you just made
   * in your browser, open: {{{localhost/[folder you just made]/index.php}}}
-  * You can now login as amin
+  * You can now login as admin
+  
+This [http://code.google.com/p/pokemon-online-project/wiki/HowToEditSettingFile article] can help you edit the setting file.
