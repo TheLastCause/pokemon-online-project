@@ -10,7 +10,7 @@ In the page, I will explain step by step on how to edit the settings file.
 
 There is 2 ways to edit the settings file.
 
-1st way:
+=== 1st way: ===
 
 1. Open the include directory
 
@@ -18,7 +18,8 @@ There is 2 ways to edit the settings file.
 
 3. Edit the variables needed
 
-2nd way, assuming you have made a connection with MySQL database:
+=== 2nd way, assuming you have made a connection with MySQL database: ===
+
  1. Go to the index page
 
  2. Login as admin
