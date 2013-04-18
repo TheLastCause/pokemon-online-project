@@ -1,0 +1,8 @@
+<?
+$news1 = "<font size="."2px"."><i>April 4, 2013</i></font>
+<p><font size="."3px"." align=".'"justify"'."> Project started by krisna. He called it ".'"Pokemon Online Project"'.". Every body are welcome edit and share the code. This project is inspired by the long gone ".'"Pokemon Crater"'.".</font></p>";
+$news2 = "<font size="."2px"."><i>MMMM dd, YYYY</i></font>
+<p><font size="."3px"."> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam cursus, nisl vel laoreet molestie, justo elit bibendum mauris, id facilisis libero purus eget dui. Quisque sed venenatis eros. Nunc vel sollicitudin tellus. Sed dictum leo vitae purus tincidunt cursus. Donec et tortor ante, at dignissim urna. Proin molestie tellus in augue interdum in rutrum ante mattis. Integer adipiscing ultrices nisi, ut pulvinar erat vehicula et. Curabitur vel nulla mi. Nunc est risus, convallis in accumsan sed, pellentesque nec turpis.</font></p>";
+$news3 = "<font size="."2px"."><i>MMMM dd, YYYY</i></font>
+<p><font size="."3px"."> Pellentesque non metus sapien. Morbi in lacinia ipsum. Donec volutpat velit et urna mattis congue. Quisque eget lorem risus, quis sollicitudin sem. Cras nec sem arcu. Pellentesque placerat tristique tristique. Nam turpis turpis, blandit in laoreet sit amet, dictum a lorem. Duis id porttitor justo. Mauris nec mauris ipsum, nec cursus risus. Morbi tristique cursus dapibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam bibendum erat et velit rhoncus porta vel eu nulla. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</font></p>";
+?>
