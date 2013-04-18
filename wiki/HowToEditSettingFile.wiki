@@ -1,0 +1,83 @@
+#summary One-sentence summary of this page.
+#labels Phase-Implementation,Phase-Deploy,Featured
+
+= Introduction =
+
+In the page, I will explain step by step on how to edit the settings file.
+
+
+= Details =
+
+There is 2 ways to edit the settings file.
+
+1st way, open the include directory. There should be a file called settings.php. You can open this file with any text editor. I recommend you to use notepad++ for windows. For mac, use TextWrangler. Linux user can use gedit.
+
+2nd way, assuming you have made a connection with MySQL database:
+ * Go to the index page
+ * Login as admin
+default:
+username: admin
+password: password
+ * click on "edit website setting"
+ * You have now enter the editor
+
+
+==  Explanation of all variables  ==
+
+$host
+
+*Host for database
+
+--------------------------
+
+$username
+
+*Database username
+
+--------------------------
+
+$password
+
+*database password
+
+--------------------------
+
+$db_name
+
+*database name
+
+--------------------------
+
+$devEmail
+
+*your email/for contact
+
+--------------------------
+
+$GameName
+
+*what the variable says
+
+--------------------------
+
+$showAds
+
+*show or hide ads
+
+--------------------------
+
+$pagetitle
+
+*custom title for pages
+
+--------------------------
+
+$AdsenseCode
+
+*your google adsense code
+
+--------------------------
+
+$Currency
+
+*Ingame curency name
