@@ -22,6 +22,8 @@ password: password
  * click on "edit website setting"
  * You have now enter the editor
 
+This [https://code.google.com/p/pokemon-online-project/wiki/DatabaseSetup article] will help you setup the database.
+
 
 ==  Default value  ==
 
