@@ -23,62 +23,33 @@ password: password
  * You have now enter the editor
 
 
-==  Explanation of all variables  ==
+==  Default value  ==
 
-$host
+|| *Variables* || *Dafault Value* ||
+|| $host || localhost ||
+|| $username || root ||
+|| $password || password ||
+|| $db_name || Pokemon_online ||
+|| || ||
+|| $devEmail || krisna@krisnaslife.cu.cc ||
+|| $GameName || Pokemon Online Project ||
+|| $showAds || false ||
+|| $pagetitle ||  ||
+|| $AdsenseCode || {{{<img src="image/AddTopDummy.png" width="100%" height="100%">}}} ||
+|| $Currency || Coin ||
 
-*Host for database
 
---------------------------
+==  Variable Description  ==
 
-$username
-
-*Database username
-
---------------------------
-
-$password
-
-*database password
-
---------------------------
-
-$db_name
-
-*database name
-
---------------------------
-
-$devEmail
-
-*your email/for contact
-
---------------------------
-
-$GameName
-
-*what the variable says
-
---------------------------
-
-$showAds
-
-*show or hide ads
-
---------------------------
-
-$pagetitle
-
-*custom title for pages
-
---------------------------
-
-$AdsenseCode
-
-*your google adsense code
-
---------------------------
-
-$Currency
-
-*Ingame curency name
+|| *Variables* || *Description* ||
+|| $host || Host for database ||
+|| $username || Database username ||
+|| $password || database password ||
+|| $db_name || database name ||
+|| || ||
+|| $devEmail || your email/for contact ||
+|| $GameName || what the variable says ||
+|| $showAds || show or hide ads ||
+|| $pagetitle || custom title for pages ||
+|| $AdsenseCode || your google adsense code ||
+|| $Currency || Ingame curency name ||
