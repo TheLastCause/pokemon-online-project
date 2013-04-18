@@ -24,10 +24,6 @@ There is 2 ways to edit the settings file.
 
  2. Login as admin
 
-default:
-username: admin
-password: password
-
  3. click on "edit website setting"
 
  4. You have now enter the editor
